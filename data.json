@@ -1,0 +1,28 @@
+{
+    "tasks":[
+        {
+            "id":101, 
+            "content":"Add more css", 
+            "status":"IStatus.unstarted"
+        },
+
+        {
+            "id":102, 
+            "content":"Fix a bug on Render.tsx", 
+            "status":"onProcerss"
+        },
+
+        {
+            "id":103,
+            "content":"Read JS Flanagan, finally",
+            "status":"unstarted"
+        },
+
+
+        {
+            "id":104,
+            "content":"Change them of dark mode",
+            "status":"completed"
+    }
+]
+}
